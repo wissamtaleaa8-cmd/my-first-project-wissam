@@ -1,0 +1,14 @@
+R:\svu\Programming I\179773\179773\bin\Debug\179773.exe.config
+R:\svu\Programming I\179773\179773\bin\Debug\179773.exe
+R:\svu\Programming I\179773\179773\bin\Debug\179773.pdb
+R:\svu\Programming I\179773\179773\obj\Debug\179773.csprojAssemblyReference.cache
+R:\svu\Programming I\179773\179773\obj\Debug\179773.csproj.CoreCompileInputs.cache
+R:\svu\Programming I\179773\179773\obj\Debug\179773.exe
+R:\svu\Programming I\179773\179773\obj\Debug\179773.pdb
+E:\SVU\for sale\179773 - Copy\179773\bin\Debug\179773.exe.config
+E:\SVU\for sale\179773 - Copy\179773\bin\Debug\179773.exe
+E:\SVU\for sale\179773 - Copy\179773\bin\Debug\179773.pdb
+E:\SVU\for sale\179773 - Copy\179773\obj\Debug\179773.csprojAssemblyReference.cache
+E:\SVU\for sale\179773 - Copy\179773\obj\Debug\179773.csproj.CoreCompileInputs.cache
+E:\SVU\for sale\179773 - Copy\179773\obj\Debug\179773.exe
+E:\SVU\for sale\179773 - Copy\179773\obj\Debug\179773.pdb
